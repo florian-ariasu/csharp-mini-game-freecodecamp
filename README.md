@@ -1,14 +1,14 @@
 # Challenge-project-Create-methods-in-CSharp
 
-    Starter and Final code for the Challenge project: "Create methods C# console applications" from the Microsoft Learn
+Starter and Final code for the Challenge project: "Create methods C# console applications" from the Microsoft Learn
 collection "Getting started with C#"
 
 <!-- Implementation details -->
 
-    This mini project comes with a starter code, containing the following functions: InitializeGame(),
+This mini project comes with a starter code, containing the following functions: InitializeGame(),
 TerminalResized(), ShowFood(), ChangePlayer(), FreezePlayer() and Move().
 
-    The first task I had was to terminate the game whenever the temrinal window was resized and to add an optional 
+The first task I had was to terminate the game whenever the temrinal window was resized and to add an optional 
 parameter to the move function so that when this parameter is enabled, the game will terminate if pressing any 
 non-directional key.To achieve this I have created the function AnnounceTerminating() to accomplish the result for 
 the terminal window resizing part and for the optional parameter I have created an instance of the Random class so 
