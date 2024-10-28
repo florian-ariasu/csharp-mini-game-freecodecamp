@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > Starter and Final code for the Challenge project: `Create methods C# console applications` from the Microsoft Learn
-> collection "Getting started with C#"
+> collection `Getting started with C#`
 
 <!-- Implementation details -->
 
