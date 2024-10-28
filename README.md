@@ -19,6 +19,11 @@ void FreezePlayer();
 void Move();
 ```
 
+> [!IMPORTANT]
+> Move function has 2 optional parameters `check` and `speed` for tasks 1 and 3.
+> If I call Move() without any parameters, they default ones will be used.
+
+
 ## Implemented by me
 
 ### First task
@@ -38,7 +43,7 @@ void AnnounceTerminating();
 ### Second task
 
 - **Food String Update**: Update the food if there's nothing left.
-- **Change Player's Appearance**: Update the player's appearance by calling the `ChangePlayer()`
+- **Change Player's Appearance**: Update the player's appearance by calling the `ChangePlayer()` function
 
 #### Function implemented: 
 ```csharp
@@ -49,7 +54,7 @@ bool JustAteFood();
 
 - **Freeze the player temporarily if his appearance is `(X_X)`, therefore I have created the function `CheckFreezeCondition()`**
 - **Increase player's speed to left/right by 3 based on this exact appearance `(^-^)`, therefore I have created 
-`CheckMovementSpeed()`**
+the `CheckMovementSpeed()` function**
 
 #### Functions implemented:
 ```csharp
