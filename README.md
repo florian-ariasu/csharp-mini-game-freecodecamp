@@ -34,12 +34,10 @@ To achieve these, I:
 void AnnounceTerminating();
 ```
 
-
 ### Second task: check whether there is food left, if not display new food string
 
-"The second task was to create a function that checks if there is food left and 
-if not to display a new food string. Along with this aspect, I had to change the player s aspect as well, by calling 
-the function ChangePlayer(). I have created JustAteFood() so to meet the requirements."
+- **Food String Update**: Update the food if there's nothing left.
+- **Change Player's Appearance**: Update the player's appearance by calling the `ChangePlayer()`
 
 #### Function implemented: 
 ```csharp
