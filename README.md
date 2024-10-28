@@ -6,8 +6,8 @@
 
 <!-- Implementation details -->
 
-# Predefined functions
-This mini project comes with a starter code, containing the following functions: 
+## Predefined functions
+`This mini project comes with a starter code, containing the following functions:` 
 
 InitializeGame()
 TerminalResized()
