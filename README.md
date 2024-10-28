@@ -22,12 +22,12 @@ void Move();
 
 ### First task: check terminal window resizing and optional move() function parameter for quitting if any non-directional key was pressed
 
-"The first task I had was to terminate the game whenever the temrinal window was resized and to add an optional 
-parameter to the move function so that when this parameter is enabled, the game will terminate if pressing any 
-non-directional key.To achieve this I have created the function AnnounceTerminating() to accomplish the result for 
-the terminal window resizing part and for the optional parameter I have created an instance of the Random class so 
-to decide whether the optional parameter is 0 or 1. For 1 the game should stop when a non-directional key is 
-pressed and for 0 should continue."
+- **Game Termination**: The game should end if the terminal window is resized.
+- **Optional Parameter in Move Function**: I added an optional parameter to `Move()` that stops the game when any non-directional key is pressed.
+  
+To achieve these, I:
+- Created a function called `AnnounceTerminating()` for the resizing condition.
+- Used an instance of the `Random` class to decide the optional parameter's value (1 to stop the game, 0 to continue).
 
 #### Function implemented: 
 ```csharp
