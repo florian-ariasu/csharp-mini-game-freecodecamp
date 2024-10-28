@@ -44,14 +44,11 @@ void AnnounceTerminating();
 bool JustAteFood();
 ```
 
+### Third task: change movement speed or freeze the player based on the player's appearance
 
-### Third task: change movement speed or freeze the player based on the player s appearance
-
-"The third task s purpose was to check whether the player string is equal to "(X_X)" so to know to freeze the player 
-temporarily, therefore I ve created the function CheckFreezeCondition(). Moreover, the task also consisted of the 
-case when the player string is equal to "(^-^)" so that I know the player s left and right movement speed should 
-increase or decrease by 3. Hence, the function I have created CheckMovementSpeed() that exactly checks that."
-
+- **Freeze the player temporarily if his appearance is `(X_X)`, therefore I have created the function `CheckFreezeCondition()`**
+- **Increase player's speed to left/right by 3 based on this exact appearance `(^-^)`, therefore I have created 
+`CheckMovementSpeed()`**
 #### Functions implemented:
 ```csharp
 bool CheckMovementSpeed();
