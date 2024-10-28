@@ -20,7 +20,7 @@ void Move();
 ```
 
 > [!IMPORTANT]
-> Move function has 2 optional parameters `check` and `speed` for tasks 1 and 3.
+> Move() function has 2 optional parameters `check` and `speed` for tasks 1 and 3.
 > If I call Move() without any parameters, they default ones will be used.
 
 
