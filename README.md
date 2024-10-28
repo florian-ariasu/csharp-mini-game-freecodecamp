@@ -7,14 +7,16 @@
 <!-- Implementation details -->
 
 ## Predefined functions
-`This mini project comes with a starter code, containing the following functions:` 
 
-InitializeGame()
-TerminalResized()
-ShowFood()
-ChangePlayer()
-FreezePlayer() 
-Move()
+This mini project comes with a starter code, containing the following functions: 
+```csharp
+void InitializeGame();
+bool TerminalResized();
+void ShowFood();
+void ChangePlayer();
+void FreezePlayer();
+void Move();
+```
 
 # Implemented by me
 ## First task: check terminal window resizing and optional move() function parameter for quitting if any non-directional key was pressed
