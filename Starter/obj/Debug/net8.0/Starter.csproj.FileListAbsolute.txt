@@ -1,0 +1,15 @@
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/bin/Debug/net8.0/Starter
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/bin/Debug/net8.0/Starter.dll
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/Starter.dll
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/florianariasu/temp/mini-game-CSharp-freeCodeCamp-project/Starter/obj/Debug/net8.0/ref/Starter.dll
