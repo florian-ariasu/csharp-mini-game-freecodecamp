@@ -1,8 +1,10 @@
 # Challenge-project-Create-methods-in-CSharp
 
+<br>
 > [!NOTE]
 > Starter and Final code for the Challenge project: "Create methods C# console applications" from the Microsoft Learn
 > collection "Getting started with C#"
+<br>
 
 <!-- Implementation details -->
 
