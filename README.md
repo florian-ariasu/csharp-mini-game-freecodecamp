@@ -20,7 +20,7 @@ void Move();
 
 ## Implemented by me
 
-### First task: check terminal window resizing and optional move() function parameter for quitting if any non-directional key was pressed
+### First task
 
 - **Game Termination**: The game should end if the terminal window is resized.
 - **Optional Parameter in Move Function**: I added an optional parameter to `Move()` that stops the game when any non-directional key is pressed.
@@ -34,7 +34,7 @@ To achieve these, I:
 void AnnounceTerminating();
 ```
 
-### Second task: check whether there is food left, if not display new food string
+### Second task
 
 - **Food String Update**: Update the food if there's nothing left.
 - **Change Player's Appearance**: Update the player's appearance by calling the `ChangePlayer()`
@@ -44,7 +44,7 @@ void AnnounceTerminating();
 bool JustAteFood();
 ```
 
-### Third task: change movement speed or freeze the player based on the player's appearance
+### Third task
 
 - **Freeze the player temporarily if his appearance is `(X_X)`, therefore I have created the function `CheckFreezeCondition()`**
 - **Increase player's speed to left/right by 3 based on this exact appearance `(^-^)`, therefore I have created 
