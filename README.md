@@ -49,6 +49,7 @@ bool JustAteFood();
 - **Freeze the player temporarily if his appearance is `(X_X)`, therefore I have created the function `CheckFreezeCondition()`**
 - **Increase player's speed to left/right by 3 based on this exact appearance `(^-^)`, therefore I have created 
 `CheckMovementSpeed()`**
+
 #### Functions implemented:
 ```csharp
 bool CheckMovementSpeed();
