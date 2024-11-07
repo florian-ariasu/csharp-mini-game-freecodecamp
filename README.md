@@ -2,7 +2,7 @@
 <br>
 
 > [!WARNING]
-> I have posted a topic in the Discussions section of this repository to seek advice and solutions for some bugs in this program. I will review all suggested solutions and approve comments that successfully address the issues.
+> I have posted a topic in the Discussions section of this repository to seek advice and solutions for some bugs in this program. I will review all suggested solutions and approve all comments that successfully address the issues.
 
 > [!NOTE]
 > Starter and Final code for the Challenge project: `Create methods C# console applications` from the Microsoft Learn
