@@ -1,18 +1,18 @@
-# 🎮 C# Methods Challenge Project
+## 🎮 C# Methods Challenge Project
 
 [![Project Type](https://img.shields.io/badge/Project-Challenge-success)](https://github.com)
 [![Platform](https://img.shields.io/badge/Platform-Console-blue)](https://github.com)
 [![Learning Path](https://img.shields.io/badge/Microsoft%20Learn-Getting%20Started%20with%20C%23-orange)](https://github.com)
 
-## 🎯 Project Overview
+### 🎯 Project Overview
 An interactive console game implementation focusing on method creation and parameter handling in C#. This project extends the Microsoft Learn starter code with additional functionality and game mechanics.
 
-## 🚨 Active Development Notice
+### 🚨 Active Development Notice
 > We're currently addressing some bugs in the program. Join the discussion in the repository's Discussions section to help improve the codebase. All viable solutions will be reviewed and acknowledged.
 
-## 🏗️ Architecture
+### 🏗️ Architecture
 
-### Pre-implemented Methods
+#### Pre-implemented Methods
 ```csharp
 public class Game
 {
@@ -25,19 +25,19 @@ public class Game
 }
 ```
 
-#### 🔑 Key Note
+##### 🔑 Key Note
 The `Move()` method accepts two optional parameters:
 - `check`: Controls game termination
 - `speed`: Modifies movement speed
 
-## 🛠️ Implementation Details
+### 🛠️ Implementation Details
 
-### 1️⃣ Task One: Game Control Mechanics
-#### Objectives
+#### 1️⃣ Task One: Game Control Mechanics
+##### Objectives
 - Implement terminal resize detection
 - Add non-directional key game termination
 
-#### Implementation
+##### Implementation
 ```csharp
 void AnnounceTerminating()
 {
@@ -46,17 +46,17 @@ void AnnounceTerminating()
 }
 ```
 
-#### Features
+##### Features
 - Terminal resize detection
 - Random-based game termination
 - Non-directional key handling
 
-### 2️⃣ Task Two: Game State Management
-#### Objectives
+#### 2️⃣ Task Two: Game State Management
+##### Objectives
 - Food system implementation
 - Player appearance updates
 
-#### Implementation
+##### Implementation
 ```csharp
 bool JustAteFood()
 {
@@ -65,17 +65,17 @@ bool JustAteFood()
 }
 ```
 
-#### Features
+##### Features
 - Dynamic food updates
 - Player appearance management
 - State tracking system
 
-### 3️⃣ Task Three: Advanced Player Mechanics
-#### Objectives
+#### 3️⃣ Task Three: Advanced Player Mechanics
+##### Objectives
 - Implement temporary player freezing
 - Add speed boost mechanics
 
-#### Implementation
+##### Implementation
 ```csharp
 public class PlayerMechanics
 {
@@ -84,26 +84,26 @@ public class PlayerMechanics
 }
 ```
 
-#### Mechanics
+##### Mechanics
 | Appearance | Effect | Implementation |
 |------------|--------|----------------|
 | `(X_X)`    | Temporary freeze | `CheckFreezeCondition()` |
 | `(^-^)`    | Speed boost (×3) | `CheckMovementSpeed()` |
 
-## 🎮 Game Features
+### 🎮 Game Features
 - Dynamic player states
 - Speed modification system
 - Temporary freeze mechanics
 - Food collection system
 - Terminal size adaptation
 
-## 💡 Tips for Success
+### 💡 Tips for Success
 1. Practice consistently
 2. Experiment with the code
 3. Join the discussion for bug fixes
 4. Test different game scenarios
 
-## 🔄 Workflow
+### 🔄 Workflow
 ```mermaid
 graph TD
     A[Start Game] --> B{Terminal Sized OK?}
