@@ -116,5 +116,5 @@ graph TD
 ```
 
 ---
-*Happy coding! Remember to check the Discussions section for active bug fixes and community solutions.* 🚀
+*Happy coding! Remember to check the Issues section for active bug fixes and community solutions.* 🚀
 
