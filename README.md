@@ -8,7 +8,7 @@
 An interactive console game implementation focusing on method creation and parameter handling in C#. This project extends the Microsoft Learn starter code with additional functionality and game mechanics.
 
 ### 🚨 Active Development Notice
-> We're currently addressing some bugs in the program. Join the discussion in the repository's Discussions section to help improve the codebase. All viable solutions will be reviewed and acknowledged.
+> The program is currently under active development, with ongoing bug fixes. Contributions and suggestions are welcome in the repository's Issues section, and all viable solutions will be reviewed.
 
 ### 🏗️ Architecture
 
