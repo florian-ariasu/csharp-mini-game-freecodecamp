@@ -115,6 +115,7 @@ graph TD
     E -->|Speed Boost| H[Fast Move]
 ```
 
----
 *Happy coding! Remember to check the Issues section for active bug fixes and ongoing improvements.* 🚀
 
+### 📜 Licence
+This project is licensed under the MIT Licence. See the [LICENCE](./LICENSE) file for further details.
