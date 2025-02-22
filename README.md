@@ -1,4 +1,4 @@
-## 🎮 C# Methods Challenge Project
+## C# Methods Challenge Project
 
 [![Project Type](https://img.shields.io/badge/Project-Challenge-success)](https://github.com)
 [![Platform](https://img.shields.io/badge/Platform-Console-blue)](https://github.com)
@@ -25,14 +25,14 @@ public class Game
 }
 ```
 
-##### 🔑 Key Note
+##### Key Note
 The `Move()` method accepts two optional parameters:
 - `check`: Controls game termination
 - `speed`: Modifies movement speed
 
 ### 🛠️ Implementation Details
 
-#### 1️⃣ Task One: Game Control Mechanics
+#### Task One: Game Control Mechanics
 ##### Objectives
 - Implement terminal resize detection
 - Add non-directional key game termination
@@ -51,7 +51,7 @@ void AnnounceTerminating()
 - Random-based game termination
 - Non-directional key handling
 
-#### 2️⃣ Task Two: Game State Management
+#### Task Two: Game State Management
 ##### Objectives
 - Food system implementation
 - Player appearance updates
@@ -70,7 +70,7 @@ bool JustAteFood()
 - Player appearance management
 - State tracking system
 
-#### 3️⃣ Task Three: Advanced Player Mechanics
+#### Task Three: Advanced Player Mechanics
 ##### Objectives
 - Implement temporary player freezing
 - Add speed boost mechanics
@@ -114,8 +114,6 @@ graph TD
     E -->|Frozen| G[Wait]
     E -->|Speed Boost| H[Fast Move]
 ```
-
-*Happy coding! Remember to check the Issues section for active bug fixes and ongoing improvements.* 🚀
 
 ### 📜 Licence
 This project is licensed under the MIT Licence. See the [LICENCE](./LICENSE) file for further details.
