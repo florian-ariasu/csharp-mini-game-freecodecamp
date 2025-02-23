@@ -1,16 +1,12 @@
 ## C# Methods Challenge Project
 
-[![Project Type](https://img.shields.io/badge/Project-Challenge-success)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Console-blue)](https://github.com)
-[![Learning Path](https://img.shields.io/badge/Microsoft%20Learn-Getting%20Started%20with%20C%23-orange)](https://github.com)
-
-### 🎯 Project Overview
+### Project Overview
 An interactive console game implementation focusing on method creation and parameter handling in C#. This project extends the Microsoft Learn starter code with additional functionality and game mechanics.
 
-### 🚨 Active Development Notice
+### Active Development Notice
 > The program is currently under active development, with ongoing bug fixes. Contributions and suggestions are welcome in the repository's Issues section, and all viable solutions will be reviewed.
 
-### 🏗️ Architecture
+### Architecture
 
 #### Pre-implemented Methods
 ```csharp
@@ -30,7 +26,7 @@ The `Move()` method accepts two optional parameters:
 - `check`: Controls game termination
 - `speed`: Modifies movement speed
 
-### 🛠️ Implementation Details
+### Implementation Details
 
 #### Task One: Game Control Mechanics
 ##### Objectives
@@ -90,20 +86,20 @@ public class PlayerMechanics
 | `(X_X)`    | Temporary freeze | `CheckFreezeCondition()` |
 | `(^-^)`    | Speed boost (×3) | `CheckMovementSpeed()` |
 
-### 🎮 Game Features
+### Game Features
 - Dynamic player states
 - Speed modification system
 - Temporary freeze mechanics
 - Food collection system
 - Terminal size adaptation
 
-### 💡 Tips for Success
+### Tips for Success
 1. Practice consistently
 2. Experiment with the code
 3. Join the discussion for bug fixes
 4. Test different game scenarios
 
-### 🔄 Workflow
+### Workflow
 ```mermaid
 graph TD
     A[Start Game] --> B{Terminal Sized OK?}
@@ -115,5 +111,5 @@ graph TD
     E -->|Speed Boost| H[Fast Move]
 ```
 
-### 📜 Licence
+### Licence
 This project is licensed under the MIT Licence. See the [LICENCE](./LICENSE) file for further details.
